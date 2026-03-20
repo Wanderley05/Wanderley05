@@ -44,23 +44,6 @@ Tenho interesse em criar sistemas eficientes, escaláveis e bem estruturados, se
 
 ---
 
-## 📈 Atividade & Consistência
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=github-dark" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 ## 📬 Conecte-se comigo
 
 <p align="center">
